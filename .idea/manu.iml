@@ -2,16 +2,14 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/FACTOID" />
       <excludeFolder url="file://$MODULE_DIR$/FACTOID/social_graph_data" />
       <excludeFolder url="file://$MODULE_DIR$/FakeNewsNet/venv/Include" />
       <excludeFolder url="file://$MODULE_DIR$/FakeNewsNet/venv/Lib" />
       <excludeFolder url="file://$MODULE_DIR$/FakeNewsNet/venv/Scripts" />
       <excludeFolder url="file://$MODULE_DIR$/FakeNewsNet/venv/etc" />
       <excludeFolder url="file://$MODULE_DIR$/FakeNewsNet/venv/share" />
-      <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.10 (manu)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.13 (manu)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
